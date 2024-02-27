@@ -338,7 +338,7 @@
   authors: B. Chmiel * , L. Ben-Uri * , M. Shkolnik, E. Hoffer, R. Banner, **D. Soudry**  
   link:
     url: https://openreview.net/forum?id=EoFNy62JGd
-    display:  ICLR 2021 (2021)
+    display:  ICLR 2021
   highlight: 1
   RefPro: 1
   JourPap: 0 
@@ -598,7 +598,7 @@
   authors: <b> D. Soudry </b>, E. Hoffer, M. Shpigel Nacson, N. Srebro
   link:
     url: https://openreview.net/pdf?id=r1q7n9gAb
-    display: ICLR 2018 (2018)
+    display: ICLR 2018
   highlight: 1
   RefPro: 1
   JourPap: 0 
@@ -641,7 +641,7 @@
   authors: I. Hubara *, M. Courbariaux *, **D. Soudry**, R. El-Yaniv, Y. Bengio
   link:
     url: https://arxiv.org/abs/1602.02830
-    display:  NIPS 2016 (2016)
+    display:  NIPS 2016
   highlight: 1
   RefPro: 1
   JourPap: 0 
@@ -656,7 +656,7 @@
   authors: S. Greshnikov, E. Rosenthal, **D. Soudry**, and S. Kvatinsky
   link:
     url:  https://www.semanticscholar.org/paper/A-fully-analog-memristor-based-neural-network-with-Rosenthal-Greshnikov/66879965418dedeadadd1761b386a1dbaa67c7b2
-    display:  Proceeding of the IEEE International Conference on Circuits and Systems, pp. 1394-1397, 2016
+    display:  Proceeding of the IEEE International Conference on Circuits and Systems, 2016
   highlight: 0
   RefPro: 1
   JourPap: 0 
@@ -705,7 +705,7 @@
   authors:  T. Greenberg-Toledo, B. Perach, I. Hubara, **D. Soudry**, S. Kvatinsky
   link:
     url:  https://iopscience.iop.org/article/10.1088/1361-6641/ac251b/meta
-    display:  to appear in  Semiconductor Science and Technology, 2021
+    display:  Semiconductor Science and Technology, 2021
   highlight: 0
   RefPro: 0
   JourPap: 1 
