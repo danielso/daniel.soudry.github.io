@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**For a full list [see bellow](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.co.il/citations?user=AEBWEm8AAAAJ&hl=iw&oi=ao).** The sign * indicates equal contribution of the authors. 
+**For a full list [see below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.co.il/citations?user=AEBWEm8AAAAJ&hl=iw&oi=ao).** The sign * indicates equal contribution of the authors. 
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
