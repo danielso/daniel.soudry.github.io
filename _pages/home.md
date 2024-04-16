@@ -68,7 +68,7 @@ I did my Ph.D. (2008-2013, direct track) in the Network Biology Research Laborat
 
 In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a B.Sc. in Physics, after studying in the Technion since 2004.
 
-[My Complete CV](https://www.dropbox.com/scl/fi/meeb90dlqii5fdbpdz3uy/CV-Daniel-Soudry.pdf?rlkey=c8jtugouhozqxdx1gmcv24tiy&dl=0)
+[My Complete CV](https://technionmail-my.sharepoint.com/:b:/g/personal/daniel_soudry_technion_ac_il/Eej1nKyGJtpMk1G3kvy0ezMB7dHToYrkLGOv5bfzD-tC8Q?e=GB5Mzs)
 
 ## Recorded Talks
 
