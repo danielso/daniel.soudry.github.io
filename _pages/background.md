@@ -65,7 +65,7 @@ Modeling and analysis of
 
 
 
-<h2 id="Deep Learning"> Current Research: Deep Learning </h2>
+<h2 id="Deep Learning"> My Current Research: Deep Learning </h2>
 
 There are several open theoretical questions in deep learning. Answering these theoretical questions will provide design guidelines and help with some important practicals issue (explained below). Two central questions are:
 
@@ -102,7 +102,7 @@ For example, ad can be seen in this ([video](https://youtu.be/OJBFDSynsdU?si=AYk
 Can we find automatic and robust method to find the "optimal" hyper-parameters?
 
 
-<h2 id="Neuroscience Methods"> Post-doc Research: Neuroscience Methods </h2>
+<h2 id="Neuroscience Methods"> My Post-doc Research: Neuroscience Methods </h2>
 
 Neuroscience datasets are typically very challenging. They are usually very noise, of limited duration, and are affected by many unobserved latent variables. Analyzing and modeling these datasets becomes more and more challenging over the years, since the number of recorded neurons increases exponentially, similarly to "Moore's law" (Figure from [Stevenson&Kording 2011](https://www.nature.com/articles/nn.2731)):
 
@@ -120,7 +120,7 @@ Can we infer the "spiking" firing patterns of each neuron from the observed movi
 
 
 
-<h2 id="Neuroscience Theory"> PhD research: Neuroscience Theory </h2>
+<h2 id="Neuroscience Theory"> My PhD research: Neuroscience Theory </h2>
 
 A central issue in neuroscience is to find the "appropriate" level of modeling: in every level and component of the nervous system we find complex biophysical machinery that affects their functional input output relation. There are many possible levels of modeling:
 
