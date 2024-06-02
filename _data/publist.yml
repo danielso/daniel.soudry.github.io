@@ -149,7 +149,7 @@
   Notes: 0
   ERC: 1
 
-- title: "Optimal Fine-Grained N:M sparsity for Activations and Neural Gradients"
+- title: "Minimum Variance Unbiased N:M Sparsity for the Neural Gradients"
   image: dummy.png
   description:  " "
   authors: B. Chmiel, I. Hubara, R. Banner, **D. Soudry**
@@ -233,7 +233,7 @@
   authors: M. Haroush, T. Frostig, R. Heller, **D. Soudry**
   link:
     url: https://openreview.net/forum?id=Oy9WeuZD51
-    display:   ICLR 2022 (2022)
+    display:   ICLR 2022
   highlight: 1
   RefPro: 1
   JourPap: 0 
@@ -263,7 +263,7 @@
   authors: I. Hubara, B. Chmiel, M. Island, R. Banner, S. Naor, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2102.08124
-    display:  NeurIPS 2021 (2021)
+    display:  NeurIPS 2021
   highlight: 1
   RefPro: 1
   JourPap: 0  
