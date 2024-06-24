@@ -55,7 +55,7 @@ permalink: /publications/
 
 ## Full List of publications
 
-<!-- ### Preprints
+### Preprints
 
 {% for publi in site.data.publist %}
 
@@ -66,7 +66,7 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endif %}
-{% endfor %} -->
+{% endfor %}
 
 
 

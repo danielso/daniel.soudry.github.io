@@ -1,3 +1,37 @@
+- title: "Exponential Quantum Communication Advantage in Distributed Inference and Learning"
+  image: dummy.png
+  description: We show the first example of exponential quantum advantage for a generic class of machine learning problems that hold regardless of the data encoding cost. 
+  authors: Hagay Michaeli, Dar Gilboa, **Daniel Soudry**, Jarrod R. McClean
+  link:
+    url: https://arxiv.org/abs/2310.07136
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+
+- title: "Stable Minima Cannot Overfit in Univariate ReLU Networks: Generalization by Large Step Sizes"
+  image: dummy.png
+  description: We are the first to obtain generalization bound via minima stability in the non-interpolation case and the first to show ReLU NNs without regularization can achieve near-optimal rates in nonparametric regression.
+  authors: Dan Qiao, Kaiqi Zhang, Esha Singh, **Daniel Soudry**, and Yu-Xiang Wang
+  link:
+    url: https://arxiv.org/abs/2406.06838
+    display:  arxiv
+  highlight: 0
+  RefPro: 0
+  Preprint: 1
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 0
+
+
 - title: "How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers"
   image: TypicalGeneralization.png
   description:  We examine neural networks (NN) with uniform random weights, conditioned on zero training loss. We prove they typically generalize well if there exists an underlying narrow ``teacher NN" that agrees with the labels.
@@ -13,8 +47,7 @@
   Notes: 0
   news1: 
   ERC: 1
-
-
+  
 - title: "Towards Cheaper Inference in Deep Networks with Lower Bit-Width Accumulators"
   image: QuantizedAccumuations.png
   description:  We present a simple method to enable, for the first time, the usage of 12-bits accumulators in deep learning, with no significant degradation in accuracy. Also, we show that as we decrease the accumulation precision further, using fine-grained gradient approximations can improve the DNN accuracy.
