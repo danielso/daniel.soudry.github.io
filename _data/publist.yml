@@ -848,7 +848,7 @@
 - title: "Extracting grid cell characteristics from place cell inputs using non-negative principal component analysis"
   image: dummy.png
   description:  " "
-  authors:    Y. Dordek *, D. Soudry *, R. Meir, D. Derdikman
+  authors:    Y. Dordek , **D. Soudry**, R. Meir, D. Derdikman
   link:
     url: https://elifesciences.org/articles/10094v2
     display: eLife, vol. 5, e10094, 2016
