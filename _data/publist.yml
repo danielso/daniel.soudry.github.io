@@ -878,7 +878,7 @@
 - title: "Efficient 'Shotgun' Inference of Neural Connectivity from Highly Sub-sampled Activity Data"
   image: dummy.png
   description:  " "
-  authors:   **D. Soudry**, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
+  authors:   <b> D. Soudry </b>, S. Keshri, P. Stinson, M.H. Oh, G. Iyengar, L. Paninski
   link:
     url: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1004464
     display:  PLoS Comput Biol, vol. 11, no. 10, 2015
