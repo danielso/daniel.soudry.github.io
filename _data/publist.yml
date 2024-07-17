@@ -1,7 +1,7 @@
 - title: "Exponential Quantum Communication Advantage in Distributed Inference and Learning"
   image: dummy.png
   description: We show the first example of exponential quantum advantage for a generic class of machine learning problems that hold regardless of the data encoding cost. 
-  authors: Hagay Michaeli, Dar Gilboa, **Daniel Soudry**, Jarrod R. McClean
+  authors: H. Michaeli, D. Gilboa, **D. Soudry**, J. R. McClean
   link:
     url: https://arxiv.org/abs/2310.07136
     display:  arxiv
@@ -18,7 +18,7 @@
 - title: "Stable Minima Cannot Overfit in Univariate ReLU Networks: Generalization by Large Step Sizes"
   image: dummy.png
   description: We are the first to obtain generalization bound via minima stability in the non-interpolation case and the first to show ReLU NNs without regularization can achieve near-optimal rates in nonparametric regression.
-  authors: Dan Qiao, Kaiqi Zhang, Esha Singh, **Daniel Soudry**, and Yu-Xiang Wang
+  authors: D. Qiao, K. Zhang, E. Singh, **D. Soudry**, and Y. X. Wang
   link:
     url: https://arxiv.org/abs/2406.06838
     display:  arxiv
