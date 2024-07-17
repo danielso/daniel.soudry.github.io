@@ -55,6 +55,8 @@ permalink: /publications/
 
 ## Full List of publications
 
+Asterisks over several author names in paper indicate these authors contributed equally to the paper.
+
 ### Preprints
 
 {% for publi in site.data.publist %}
