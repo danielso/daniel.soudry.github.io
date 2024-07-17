@@ -74,6 +74,7 @@ In 2008 I graduated summa cum laude with a B.Sc. in Electrical Engineering and a
 
 Talks for the general audience:
 
+- [AI for Everyday Usage in Academia](https://youtu.be/7wD0vqaqJcg?si=AM3gpeF-JRoGUR2L) (Hebrew), "Mistaglim 2.0" zoom meeting, 2024.
 - [On the age of deep learning and the revolution in artificial intelligence](https://www.youtube.com/watch?v=MJ1w4ne3F3I) (Hebrew), Rambam Staff meeting, 2019.
   
 Talks that require a machine learning background:
