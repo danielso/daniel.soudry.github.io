@@ -21,17 +21,22 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>    
+        <li data-target="#carousel" data-slide-to="7"></li>   
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
+          <div class="item active">
              <h4> Our Team </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider2.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GroupPhoto_Aug2024.jpg" alt="Slide 1" />
+        </div>
+        <div class="item active">
+             <h4> Our Team 2 </h4>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
          <h4> Daniel Soudry </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/danielslider2.jpg" alt="Slide 3" />
         </div>
         <div class="item">
              <h4> <a href="https://arxiv.org/abs/1912.01274">Synthetic data generated from a classifier and used to quantize it </a> </h4>
