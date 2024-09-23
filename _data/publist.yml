@@ -1,7 +1,7 @@
 - title: "Scaling FP8 training to trillion-token LLMs"
   image: dummy.png
   description: We show how train to LLMs in FP8
-  authors: M. Fishman, B. Chmiel, R. Banner, D. **Soudry**
+  authors: M. Fishman, B. Chmiel, R. Banner, **D. Soudry**
   link:
     url: https://arxiv.org/abs/2409.12517
     display:  arxiv
