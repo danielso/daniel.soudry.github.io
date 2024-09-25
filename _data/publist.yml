@@ -21,14 +21,14 @@
   authors: H. Michaeli, D. Gilboa, **D. Soudry**, J. R. McClean
   link:
     url: https://arxiv.org/abs/2310.07136
-    display:  arxiv
+    display:  NeurIPS 2025
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
-  news1: 
+  news1: 1
   ERC: 0
 
 
@@ -38,15 +38,48 @@
   authors: D. Qiao, K. Zhang, E. Singh, **D. Soudry**, and Y. X. Wang
   link:
     url: https://arxiv.org/abs/2406.06838
-    display:  arxiv
+    display:  NeurIPS 2025 (Spotlight)
   highlight: 0
-  RefPro: 0
-  Preprint: 1
+  RefPro: 1
+  Preprint: 0
   JourPap: 0 
   RefAbs: 0
   Notes: 0
   news1: 
+  ERC: 1
+
+- title: "Provable Tempered Overfitting of Minimal Nets and Typical Nets"
+  image: dummy.png
+  description: We prove (empirically observed) tempered overfitting happens in quantized deep neural nets found using the minimal sizeed interpolate or a random interpolator
+  authors: Itamar Harel, William M. Hoza, Gal Vardi, Itay Evron, Nathan Srebro, Daniel Soudry
+  link:
+    url: 
+    display:  NeurIPS 2025
+  highlight: 0
+  RefPro: 1
+  Preprint: 0
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 1
   ERC: 0
+
+
+- title: "The Implicit Bias of Gradient Descent on Separable Multiclass Data"
+  image: dummy.png
+  description: We prove the max-margin results on various classifcation losses with linear predictors on separable multiclass data
+  authors: Hrithik Ravi, Clayton Scott, Daniel Soudry, Yutong Wang
+  link:
+    url:
+    display:  NeurIPS 2025
+  highlight: 0
+  RefPro: 1
+  Preprint: 0
+  JourPap: 0 
+  RefAbs: 0
+  Notes: 0
+  news1: 
+  ERC: 1
 
 
 - title: "How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers"
