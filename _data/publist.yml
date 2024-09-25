@@ -51,7 +51,7 @@
 - title: "Provable Tempered Overfitting of Minimal Nets and Typical Nets"
   image: dummy.png
   description: We prove (empirically observed) tempered overfitting happens in quantized deep neural nets found using the minimal sizeed interpolate or a random interpolator
-  authors: Itamar Harel, William M. Hoza, Gal Vardi, Itay Evron, Nathan Srebro, **D. Soudry**
+  authors: I. Harel, W. M. Hoza, G. Vardi, I, Evron, N. Srebro, **D. Soudry**
   link:
     url: 
     display:  NeurIPS 2025
@@ -68,7 +68,7 @@
 - title: "The Implicit Bias of Gradient Descent on Separable Multiclass Data"
   image: dummy.png
   description: We prove the max-margin results on various classifcation losses with linear predictors on separable multiclass data
-  authors: Hrithik Ravi, Clayton Scott, Daniel Soudry, Yutong Wang
+  authors: H. Ravi, C. Scott, D. Soudry, Y. Wang
   link:
     url:
     display:  NeurIPS 2025
