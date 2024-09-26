@@ -68,7 +68,7 @@
 - title: "The Implicit Bias of Gradient Descent on Separable Multiclass Data"
   image: dummy.png
   description: We prove the max-margin results on various classifcation losses with linear predictors on separable multiclass data
-  authors: H. Ravi, C. Scott, D. Soudry, Y. Wang
+  authors: H. Ravi, C. Scott, **D. Soudry**, Y. Wang
   link:
     url:
     display:  NeurIPS 2024
