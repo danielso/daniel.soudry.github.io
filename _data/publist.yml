@@ -33,7 +33,7 @@
 
 
 - title: "Exponential Quantum Communication Advantage in Distributed Inference and Learning"
-  image: dummy.png
+  image: Quantum.png
   description: We show the first example of exponential quantum advantage for a generic class of machine learning problems that hold regardless of the data encoding cost. 
   authors: H. Michaeli, D. Gilboa, **D. Soudry**, J. R. McClean
   link:
@@ -46,11 +46,11 @@
   RefAbs: 0
   Notes: 0
   news1: 1
-  ERC: 0
+  ERC: 1
 
 
 - title: "Stable Minima Cannot Overfit in Univariate ReLU Networks: Generalization by Large Step Sizes"
-  image: dummy.png
+  image: StableMinima.png
   description: We are the first to obtain generalization bound via minima stability in the non-interpolation case and the first to show ReLU NNs without regularization can achieve near-optimal rates in nonparametric regression.
   authors: D. Qiao, K. Zhang, E. Singh, **D. Soudry**, and Y. X. Wang
   link:
@@ -66,7 +66,7 @@
   ERC: 1
 
 - title: "Provable Tempered Overfitting of Minimal Nets and Typical Nets"
-  image: dummy.png
+  image: Tempered.png
   description: We prove (empirically observed) tempered overfitting happens in quantized deep neural nets found using the minimal sizeed interpolate or a random interpolator
   authors: I. Harel, W. M. Hoza, G. Vardi, I, Evron, N. Srebro, **D. Soudry**
   link:
@@ -79,11 +79,11 @@
   RefAbs: 0
   Notes: 0
   news1: 1
-  ERC: 0
+  ERC: 1
 
 
 - title: "The Implicit Bias of Gradient Descent on Separable Multiclass Data"
-  image: dummy.png
+  image: Multiclass.png
   description: We prove the max-margin results on various classifcation losses with linear predictors on separable multiclass data
   authors: H. Ravi, C. Scott, **D. Soudry**, Y. Wang
   link:
