@@ -43,15 +43,15 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
             <a target="_blank" href="https://arxiv.org/abs/1912.01274"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider2.jpg" alt="Synthetic data generated from a classifier and used to quantize it" /> </a>
         </div>
         <div class="item">
-              <h4> <a href="https://arxiv.org/abs/1906.00771">How quantization and depth affect neural representations? </a> </h4>
+              <h4> <a href="https://arxiv.org/abs/1906.00771">How do quantization and depth affect neural representations? </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/1906.00771"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/siganlProcslider2.jpg" alt="How quantization and depth affect neural representations?" /> </a>
         </div>
         <div class="item">
-           <h4> <a href="https://arxiv.org/abs/2306.03534">How catastrophic forgetting affects linear classification? </a> </h4>
+           <h4> <a href="https://arxiv.org/abs/2306.03534">How does catastrophic forgetting affect linear classification? </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/2306.03534"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/continuallearningslider2.jpg" alt="How catastrophic forgetting affects linear classification?" /> </a>
         </div>
         <div class="item">
-          <h4> <a href="https://arxiv.org/abs/2305.13064">How gradient descent reaches the Edge of Stability? </a> </h4>
+          <h4> <a href="https://arxiv.org/abs/2305.13064">How does gradient descent reach the Edge of Stability? </a> </h4>
             <a target="_blank" href="https://arxiv.org/abs/2305.13064"> <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GDChaosslider22.jpg" alt="How gradient descent reaches the Edge of Stability?" /> </a>
         </div>
      </div>
