@@ -70,7 +70,7 @@
   description: We prove (empirically observed) tempered overfitting happens in quantized deep neural nets found using the minimal sizeed interpolate or a random interpolator
   authors: I. Harel, W. M. Hoza, G. Vardi, I, Evron, N. Srebro, **D. Soudry**
   link:
-    url: 
+    url: https://arxiv.org/abs/2410.19092
     display:  NeurIPS 2024
   highlight: 0
   RefPro: 1
