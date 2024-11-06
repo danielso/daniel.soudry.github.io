@@ -86,7 +86,7 @@
   image: Multiclass.png
   description: We prove the max-margin results on various classifcation losses with linear predictors on separable multiclass data
   authors: H. Ravi, C. Scott, **D. Soudry**, Y. Wang
-  link:
+  link: https://arxiv.org/abs/2411.01350
     url:
     display:  NeurIPS 2024
   highlight: 0
