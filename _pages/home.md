@@ -27,7 +27,7 @@ I am an associate professor and Schmidt Career Advancement Chair in AI, working 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
              <h4> Our Team </h4>
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/groupslider.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GroupPhoto_Aug2024.jpg" alt="Slide 1" />
         </div>
         <div class="item">
          <h4> Daniel Soudry </h4>
