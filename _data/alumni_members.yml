@@ -35,7 +35,7 @@
 - name: Liad Ben-Ori 
   photo: dummyface.jpg
   info: MSc 
-  education2:  
+  education2: <a href="https://www.linkedin.com/in/liad-ben-uri-58a034167">Homepage</a> 
 
 - name: Niv Giladi
   photo: niv_orig.jpg
