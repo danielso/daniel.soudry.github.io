@@ -37,8 +37,6 @@
   info: MSc 
   education2:  
 
-
-
 - name: Niv Giladi
   photo: niv_orig.jpg
   info: PhD student
@@ -53,7 +51,7 @@
   
 - name: Tzofnat Greenberg-Toledo
   photo: tzofant1.jpg
-  info:  PHD (Shared PhD student with [Shahar kvatinsky ](https://kvatinsky.com/))
+  info:  PhD (Shared PhD student with [Shahar kvatinsky ](https://kvatinsky.com/))
   number_educ: 2
   education2: <a href="https://www.linkedin.com/in/tzofnat-greenberg-53442a19/?originalSubdomain=il">Homepage</a>
   
@@ -62,3 +60,26 @@
   info: MSc Student 
   number_educ: 2
   education2: <a href="https://www.linkedin.com/in/shahar-gottlieb-b4a58a232/?originalSubdomain=il">Homepage</a>
+
+- name: Itay Evron
+  photo: ItayEvronNew.jpg
+  info: PhD student
+  email: evron@campus.technion.ac.il
+  number_educ: 2
+  education2: <a href="https://www.evron.me/">Homepage</a>
+
+- name: Chen Zeno
+  photo: chen2.jpeg
+  info: PhD student
+  email: chenzeno@campus.technion.ac.il
+  number_educ: 2
+  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
+
+- name: Yaniv Blumenfeld 
+  photo: yaniv2.jpg
+  info: PhD student
+  email: yanivbl@campus.technion.ac.il
+  number_educ: 2
+  education2: <a href="https://www.linkedin.com/in/yaniv-blumenfeld-6103b516b/">Homepage</a>
+
+

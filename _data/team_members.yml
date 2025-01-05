@@ -6,32 +6,6 @@
   education1: <a href="mailto:daniel.soudry@technion.ac.il">Email</a>
   education2: <a href="https://soudry.github.io/">Homepage</a>
 
-- name: Chen Zeno
-  photo: chen2.jpeg
-  info: PhD student
-  email: chenzeno@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:chenzeno@campus.technion.ac.il">Email</a>
-  education2: <a href="https://scholar.google.com/citations?user=zYd6mEUAAAAJ&hl=en">Homepage</a>
-
-
-- name: Yaniv Blumenfeld 
-  photo: yaniv2.jpg
-  info: PhD student
-  email: yanivbl@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:yanivbl@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.linkedin.com/in/yaniv-blumenfeld-6103b516b/">Homepage</a>
-
-- name: Itay Evron
-  photo: ItayEvronNew.jpg
-  info: PhD student
-  email: evron@campus.technion.ac.il
-  number_educ: 2
-  education1: <a href="mailto:evron@campus.technion.ac.il">Email</a>
-  education2: <a href="https://www.evron.me/">Homepage</a>
-
-
 - name: Matan Haroush
   photo: matanh1.jpg
   info: PhD student
@@ -40,8 +14,6 @@
   education1: <a href="mailto:matan.h@campus.technion.ac.il">Email</a>
   education2: <a href="https://scholar.google.co.il/citations?user=2bPlSXQAAAAJ&hl=en">Homepage</a>
 
-
-
 - name: Hagay Michaeli
   photo: hagaim.jpg
   info: PhD Student 
@@ -49,7 +21,6 @@
   number_educ: 2
   education1: <a href="mailto:hagaymi@campus.technion.ac.il">Email</a>
   education2: <a href="https://www.linkedin.com/in/hagay-michaeli-a3b319152/?originalSubdomain=il">Homepage</a>
-
 
 - name: Edan Kinderman
   photo: idan1.jpeg
@@ -83,6 +54,21 @@
   education1: <a href="mailto:itamarharel@campus.technion.ac.il">Email</a>
   education2: <a href="">Homepage</a>
 
+- name: Itay Lamprecht
+  photo: Itay_Lamprecht.jpg
+  info: MSc student
+  email: itayl@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:itayl@campus.technion.ac.il">Email</a>
+  education2: <a href="https://www.linkedin.com/in/itay-lamprecht-363a83270">Homepage</a>
+
+- name: Ran Levinstein
+  photo: Ran_Levinstein.jpg
+  info: MSc student
+  email: ran-l@campus.technion.ac.il
+  number_educ: 2
+  education1: <a href="mailto:ran-l@campus.technion.ac.il">Email</a>
+  education2: <a href="linkedin.com/in/ran-levinstein-a2809b173">Homepage</a>
 
 
 
