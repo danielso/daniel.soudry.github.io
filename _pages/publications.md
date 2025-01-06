@@ -103,6 +103,8 @@ Asterisks over several author names in paper indicate these authors contributed 
 
 <em> **D. Soudry**, D. Di Castro, A. Gal, A. Kolodny, and S. Kvatinsky</em><br /> Analog Multiplier Using Memristor a Memristive Device and Methods for Implementing Hebbian Learning Rules Using Memristor Arrays <br /> US Patent US9754203 B2 (2016)
 
+<em> 3.	T. Greenberg-Toledo, **D. Soudry**, S. Kvatinsky</em><br /> MTJ-Based Hardware Synapse Implementation for Ternary and Binary Deep Neural Networks <br /> US Patent 12,182,690 (2024)
+
 ### Refereed Abstracts (Conferences, Symposia, and Workshops)
 
 {% for publi in site.data.publist %}
